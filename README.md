@@ -1,20 +1,18 @@
 ## Education
 
-11 / 2017 - Present | **PhD Candidate**
+11 / 2017 - Present | **PhD Candidate**, *University of Canterbury*, Christchurch, NZ
 
-05 / 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*
+05 / 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*, Clarksville, TN
 
    Relative Coursework: GIS, Remote Sensing, Python, Statistics in Geoscience, Database Management
 
-05 / 2009 | **B.A. Studio Art**, *Austin Peay State University*
+05 / 2009 | **B.A. Studio Art**, *Austin Peay State University* Clarksville, TN
 
    *Minor in International Studies*
 
    Relative Coursework: Element of Statistics, Web Development, Electronic Imaging, 2D Design, 3D Design
 
 ## Experience
-
-   *University of Canterbury*, Christchurch, NZ
 
 09 / 2015 - 09 / 2017 | **Post-Bachelor's Research Associate**
 
