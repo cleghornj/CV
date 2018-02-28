@@ -11,6 +11,7 @@
    Relative Coursework: Element of Statistics, Web Development, Electronic Imaging, 2D Design, 3D Design
 
 ## Experience
+
 09 / 2015 - 09 / 2017 | **Post-Bachelor's Research Associate**
 
    *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN.
@@ -37,11 +38,14 @@
    * GPS data collection
 
 ## Publications
+
 ### Presentations
+
 **Cleghorn, J.** and McKee, J. (2017). Utilizing Statistical Descriptors and Image Analysis to Guide Semi-Supervised Learning.
 In: *Association of American Geographers Annual Meeting*. Boston, MA, USA.
 
 ### Solo Exhibitions
+
 2015 | *Topographic Portraits*, Morgan University Center, Clarksville, TN.
 
 2014 | *Portraits of a Trip*, The Frame Maker, Clarksville, TN.
@@ -49,6 +53,7 @@ In: *Association of American Geographers Annual Meeting*. Boston, MA, USA.
 2011 | *Cosmographia*, The Frame Maker, Clarksville, TN.
 
 ### Group Exhibitions
+
 2011 | *7th Photographic Image Biennial*, East Carolina University, Greenville, NC.
 
 
