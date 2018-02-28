@@ -1,17 +1,17 @@
 ## Education
 
-May 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*
+05 / 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*
 
    Relative Coursework: GIS, Remote Sensing, Python, Statistics in Geoscience, Database Management
 
-May 2009 | **B.A. Studio Art**, *Austin Peay State University*
+05 / 2009 | **B.A. Studio Art**, *Austin Peay State University*
 
    *Minor in International Studies*
 
    Relative Coursework: Element of Statistics, Web Development, Electronic Imaging, 2D Design, 3D Design
 
 ## Experience
-September 2015 - Present | **Post-Bachelor's Research Associate**
+09 / 2015 - 09 / 2017 | **Post-Bachelor's Research Associate**
 
    *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN.
 
@@ -20,14 +20,14 @@ September 2015 - Present | **Post-Bachelor's Research Associate**
    * Application and script development to improve efficiency of workflows
    * Image processing
 
-May 2015 - September 2015 | **Higher Education Research Experience (HERE Internship)**
+05 / 2015 - 09/ 2015 | **Higher Education Research Experience (HERE Internship)**
 
    *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN.
 
    * Support for Global Population Distribution and Dynamics team
 
 
-August 2014 – May 2015 | **GIS Technician/ Developer – Student Assistant**
+08 / 2014 – 05 / 2015 | **GIS Technician/ Developer – Student Assistant**
 
    *Austin Peay State University GIS Center*, Clarksville, TN
 
