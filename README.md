@@ -1,6 +1,8 @@
 ## Education
 
 11 / 2017 - Present | **PhD Candidate**, *University of Canterbury*, Christchurch, NZ
+   
+   Virtual Space, Human Computer Interaction
 
 05 / 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*, Clarksville, TN
 
