@@ -12,6 +12,10 @@
 
 ## Experience
 
+11 / 2017 - Present | **PhD Candidate**
+
+   *University of Canterbury*, Christchurch, NZ
+
 09 / 2015 - 09 / 2017 | **Post-Bachelor's Research Associate**
 
    *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN.
