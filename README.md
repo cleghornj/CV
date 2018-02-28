@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/cleghornj/CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+May 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+   Relative Coursework: GIS, Remote Sensing, Python, Statistics in Geoscience, Database Management
 
-### Markdown
+May 2009 | **B.A. Studio Art**, *Austin Peay State University*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   *Minor in International Studies*
 
-```markdown
-Syntax highlighted code block
+   Relative Coursework: Element of Statistics, Web Development, Electronic Imaging, 2D Design, 3D Design
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
+September 2015 - Present | **Post-Bachelor's Research Associate**
 
-- Bulleted
-- List
+   *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN.
 
-1. Numbered
-2. List
+   * Experience with supervised machine learning
+   * Research methods for identifying settlement in satellite imagery
+   * Application and script development to improve efficiency of workflows
+   * Image processing
 
-**Bold** and _Italic_ and `Code` text
+May 2015 - September 2015 | **Higher Education Research Experience (HERE Internship)**
 
-[Link](url) and ![Image](src)
-```
+   *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+   * Support for Global Population Distribution and Dynamics team
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cleghornj/CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+August 2014 – May 2015 | **GIS Technician/ Developer – Student Assistant**
 
-### Support or Contact
+   *Austin Peay State University GIS Center*, Clarksville, TN
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+   * Web map application development
+   * Maintain land use records
+   * Compile geodatabases
+   * GPS data collection
+
+## Publications
+### Presentations
+**Cleghorn, J.** and McKee, J. (2017). Utilizing Statistical Descriptors and Image Analysis to Guide Semi-Supervised Learning.
+In: *Association of American Geographers Annual Meeting*. Boston, MA, USA.
+
+### Solo Exhibitions
+2015 | *Topographic Portraits*, Morgan University Center, Clarksville, TN.
+
+2014 | *Portraits of a Trip*, The Frame Maker, Clarksville, TN.
+
+2011 | *Cosmographia*, The Frame Maker, Clarksville, TN.
+
+### Group Exhibitions
+2011 | *7th Photographic Image Biennial*, East Carolina University, Greenville, NC.
+
+
+2010 | *Photography*, The Frame Maker, Clarksville, TN.
+
+
+2010 | *Positive/Negative 25*, Slocumb Gallery, Johnson City, TN.
+
+
+2009 | *Twitterpated*, The Front Page Deli, Clarksville, TN.
+
+
+2009 | *USBank Open Exhibition*, Downtown Artist Coop, Clarksville, TN.
+
+
+2009 | *41st Annual Student Art Exhibition*, Austin Peay State University,  Clarksville, TN.
+
+
+2009 | *Inaugural Regional Juried Exhibition*, Downtown Artist Coop, Clarksville, TN.
+
+
+2008 | *Us Bank Open Exhibition*, Downtown Artist Coop, Clarksville, TN.
