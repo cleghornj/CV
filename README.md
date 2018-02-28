@@ -1,5 +1,7 @@
 ## Education
 
+11 / 2017 - Present | **PhD Candidate**
+
 05 / 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*
 
    Relative Coursework: GIS, Remote Sensing, Python, Statistics in Geoscience, Database Management
@@ -11,8 +13,6 @@
    Relative Coursework: Element of Statistics, Web Development, Electronic Imaging, 2D Design, 3D Design
 
 ## Experience
-
-11 / 2017 - Present | **PhD Candidate**
 
    *University of Canterbury*, Christchurch, NZ
 
