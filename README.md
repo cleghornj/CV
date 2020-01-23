@@ -4,7 +4,7 @@
 
    Relative Coursework: GIS, Remote Sensing, Python, Statistics in Geoscience, Database Management
 
-05 / 2009 | **B.A. Studio Art**, *Austin Peay State University* Clarksville, TN
+05 / 2009 | **B.A. Studio Art**, *Austin Peay State University*, Clarksville, TN
 
    *Minor in International Studies*
 
@@ -28,13 +28,15 @@
    
    * Developed Python, Powershell, and batch scripts to improve data compiling and deployment.
 
-11 / 2017 - 07/2018 | **Independent Researcher (PhD Student)**, *University of Canterbury*, Christchurch, NZ
+11 / 2017 - 07/2018 | **Independent Researcher (PhD Student)** 
+
+   *University of Canterbury*, Christchurch, NZ
    
    * Researched interface design for spatial search and navigation of the web in a virtual reality environment. This research involved        learning the effects of UI/UX design on information retrieval, document management, and wayfinding.
 
 05 / 2015 - 09 / 2017 | **Post-Bachelor's Research Associate**
 
-   *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN.
+   *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN
 
    * Presented research on using statistical descriptors and image analysis to guide machine learning at the American Association of          Geographers conference. This research identified sampling techniques to improve machine learning model performance.
    
@@ -43,7 +45,7 @@
 
 05 / 2015 - 09/ 2015 | **Higher Education Research Experience (HERE Internship)**
 
-   *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN.
+   *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN
 
    * Support for Global Population Distribution and Dynamics team
 
