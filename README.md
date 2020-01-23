@@ -46,10 +46,9 @@
 
    *Austin Peay State University GIS Center*, Clarksville, TN
 
-   * Web map application development
-   * Maintain land use records
-   * Compile geodatabases
-   * GPS data collection
+   * Worked with Computer Science Majors to develop an app that tracked our campus trolley.
+   * Worked with professor on a research project that involved analysis on mined data to discover the relationship between soil types        and hydrolic geometry.
+   * Web map application development, Maintain land use records, Compile geodatabases, GPS data collection
 
 ## Publications
 
