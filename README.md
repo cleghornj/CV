@@ -1,9 +1,5 @@
 ## Education
 
-11 / 2017 - Present | **PhD Candidate**, *University of Canterbury*, Christchurch, NZ
-   
-   Virtual Space, Human Computer Interaction
-
 05 / 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*, Clarksville, TN
 
    Relative Coursework: GIS, Remote Sensing, Python, Statistics in Geoscience, Database Management
@@ -16,14 +12,34 @@
 
 ## Experience
 
-09 / 2015 - 09 / 2017 | **Post-Bachelor's Research Associate**
+08 / 2019 - Present | **Planning Specialist (GIS)**
+
+   *Tennessee Department of Transportation*, Nashville, TN
+
+   * Part of a team developing a collection of tools, models, and data visualizations to discover information and inform leadership.
+   
+   * I am currently using my programming and system operation analyst background to evaluate legacy processes and develop better              information systems through smart design and task automation.
+
+08 / 2018 - 08/2019 | **Information Systems Operations Analyst (GIS)**
+
+   *Metro Nashville & Davidson County Emergency Communications*, Nashville, TN
+
+   * Created a PostgreSQL database used for ad hoc queries in order to  discover data inconsistencies within the Geographic Information      Systems used for 911 Operations. Using this, I was able to identify underlying issues with data interoperability and correct over        eight thousand address points and street segments with missing and/or incorrect information.
+   
+   * Developed Python, Powershell, and batch scripts to improve data compiling and deployment.
+
+11 / 2017 - 07/2018 | **Independent Researcher (PhD Student)**, *University of Canterbury*, Christchurch, NZ
+   
+   * Researched interface design for spatial search and navigation of the web in a virtual reality environment. This research involved        learning the effects of UI/UX design on information retrieval, document management, and wayfinding.
+
+05 / 2015 - 09 / 2017 | **Post-Bachelor's Research Associate**
 
    *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN.
 
-   * Experience with supervised machine learning
-   * Research methods for identifying settlement in satellite imagery
-   * Application and script development to improve efficiency of workflows
-   * Image processing
+   * Presented research on using statistical descriptors and image analysis to guide machine learning at the American Association of          Geographers conference. This research identified sampling techniques to improve machine learning model performance.
+   
+   * Developed software, tools, and scripts to support the Global Population Distribution and Dynamics team. Using these tools I              overhauled the existing workflow pipeline to increase efficiency and mitigate error. By the time I left the majority of the analyst      were using these tools and processing error was negligible.
+  
 
 05 / 2015 - 09/ 2015 | **Higher Education Research Experience (HERE Internship)**
 
