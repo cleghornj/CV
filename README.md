@@ -41,14 +41,6 @@
    * Presented research on using statistical descriptors and image analysis to guide machine learning at the American Association of          Geographers conference. This research identified sampling techniques to improve machine learning model performance.
    
    * Developed software, tools, and scripts to support the Global Population Distribution and Dynamics team. Using these tools I              overhauled the existing workflow pipeline to increase efficiency and mitigate error. By the time I left the majority of the analyst      were using these tools and processing error was negligible.
-  
-
-05 / 2015 - 09/ 2015 | **Higher Education Research Experience (HERE Internship)**
-
-   *Geographic Information Science and Technology Group, Oak Ridge National Laboratory*, Oak Ridge, TN
-
-   * Support for Global Population Distribution and Dynamics team
-
 
 08 / 2014 – 05 / 2015 | **GIS Technician/ Developer – Student Assistant**
 
