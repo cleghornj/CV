@@ -1,15 +1,3 @@
-## Education
-
-05 / 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*, Clarksville, TN
-
-   Relative Coursework: GIS, Remote Sensing, Python, Statistics in Geoscience, Database Management
-
-05 / 2009 | **B.A. Studio Art**, *Austin Peay State University*, Clarksville, TN
-
-   *Minor in International Studies*
-
-   Relative Coursework: Element of Statistics, Web Development, Electronic Imaging, 2D Design, 3D Design
-
 ## Experience
 
 08 / 2019 - Present | **Planning Specialist (GIS)**
@@ -49,6 +37,18 @@
    * Worked with Computer Science Majors to develop an app that tracked our campus trolley.
    * Worked with professor on a research project that involved analysis on mined data to discover the relationship between soil types        and hydrolic geometry.
    * Web map application development, Maintain land use records, Compile geodatabases, GPS data collection
+   
+## Education
+
+05 / 2015 | **B.S. Geography (GIS)**, *Austin Peay State University*, Clarksville, TN
+
+   Relative Coursework: GIS, Remote Sensing, Python, Statistics in Geoscience, Database Management
+
+05 / 2009 | **B.A. Studio Art**, *Austin Peay State University*, Clarksville, TN
+
+   *Minor in International Studies*
+
+   Relative Coursework: Element of Statistics, Web Development, Electronic Imaging, 2D Design, 3D Design
 
 ## Publications
 
